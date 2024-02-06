@@ -1,0 +1,7 @@
+#Wed Nov 22 14:48:13 IST 2023
+base.0=D\:\\Carrer\\Sih\\career_crafter\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+base.1=D\:\\Carrer\\Sih\\career_crafter\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

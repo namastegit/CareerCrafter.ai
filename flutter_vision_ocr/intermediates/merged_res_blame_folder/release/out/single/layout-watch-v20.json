@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "com.flutterallinone.flutter_vision_ocr-merged_res-26:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml",
+        "source": "com.flutterallinone.flutter_vision_ocr-appcompat-1.6.1-0:/layout-watch-v20/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "com.flutterallinone.flutter_vision_ocr-merged_res-26:/layout-watch-v20/abc_alert_dialog_title_material.xml",
+        "source": "com.flutterallinone.flutter_vision_ocr-appcompat-1.6.1-0:/layout-watch-v20/abc_alert_dialog_title_material.xml"
+    }
+]
